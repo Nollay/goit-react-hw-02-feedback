@@ -30,3 +30,8 @@ export const ContainerButton = styled.div`
   display: flex;
   justify-content: space-around;
 `;
+
+export const ContainerButtonn = styled.div`
+  display: flex;
+  justify-content: space-around;
+`;
