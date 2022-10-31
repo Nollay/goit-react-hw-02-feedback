@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { Container } from './Feedback/FeedbackStyled';
-import FeedbackStats from './Feedback/FeedbackStats';
-import Feedbacks from './Feedback/Feedback';
+import { Container } from './feedback/FeedbackStyled';
+import FeedbackStats from './feedback/FeedbackStats';
+import Feedbacks from './feedback/Feedback';
 
 class App extends Component {
   state = {
